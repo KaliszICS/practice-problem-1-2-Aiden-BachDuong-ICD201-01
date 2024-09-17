@@ -1,5 +1,10 @@
 
-
+'''
+    Lesson: Variables and Data Type Assingment
+    Author: Aiden Bach Duong
+    Date Created: Sept 16, 2024
+    Date Last Modified: Sept 17, 2024
+'''
 #Write Assignment code here
 
 def q1():
@@ -24,6 +29,7 @@ def q4():
 
 def q5():
     word = "Hello World"
+    print (word)
     word = "Goodbye World"
     print (word)
 
