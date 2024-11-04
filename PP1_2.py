@@ -9,38 +9,38 @@
 
 def q1():
     name = Alex
-    print (name)
+    print(name)
 
 def q2():
     three = 3
     five = 5
     two = 2
-    print (three + two + five)
+    print(three + two + five)
 
 def q3():
     twoOne = 21
     four = 4
-    print (twoOne // four)
+    print(twoOne // four)
 
 def q4():
     floatOne = 6.3
     floatTwo = 3.0
-    print ( floatOne / floatTwo)
+    print(floatOne / floatTwo)
 
 def q5():
     word = "Hello World"
-    print (word)
+    print(word)
     word = "Goodbye World"
-    print (word)
+    print(word)
 
 def q6():
     false = True
-    print (false)
+    print(false)
 
 def q7():
     two = 2
     seven = 7
-    print (seven % two)
+    print(seven % two)
 
 q1()
 q2()
