@@ -8,7 +8,7 @@
 #Write Assignment code here
 
 def q1():
-    name = Alex
+    name = "Alex"
     print(name)
 
 def q2():
